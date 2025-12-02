@@ -26,7 +26,8 @@ In this tutorial, we will cover the DHT11 only.
 ### WIRING
 
 Depending on the sensor model you have, different wiring will apply. 
-Please identify your sensor and wire it accordinly to the [following image]
+
+Please identify your sensor and wire it accordinly to the [following image](https://github.com/kingston-hackSpace/DHT)
 
 ----
 ### CODE AND INSTRUCTIONS
