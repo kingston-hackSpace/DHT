@@ -14,7 +14,7 @@ DHT11 vs DHT22 chart : [here](https://github.com/kingston-hackSpace/DHT/blob/mai
 ----
 # TUTORIAL
 
-In this tutorial, we will conver the DHT11 only.
+In this tutorial, we will cover the DHT11 only.
 
 ----
 ### HARDWARE
