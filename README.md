@@ -2,11 +2,30 @@
 
 Both the DHT11 and DHT22 are sensors that measure ambient temperature (°C / °F) and relative humidity (%RH).
 
-Range: about 0–50 °C. Ideal to measure ambient temperatures. 
+|DHT11         | range          |
+|:--------     |:--------       |
+| Temperature: | 0 to 50 °C     | 
+| Humidity:    | 20% to 80% RH  | 
+
+
+| DHT22            | range          |
+|:--------         |:--------       |
+| Temperature:     | –40 to +80 °C  | 
+| Humidity:        | 0% to 100% RH  | 
 
 More info : [here](https://learn.adafruit.com/dht)
 
-*Note: If you require high-precision temperature measurements (without humidity) and a wider temperature range (below 0 °C or above 50 °C), then the [TEMP102 sensor](https://github.com/kingston-hackSpace/TEMP102/blob/main/README.md) is a more suitable choice.*
+----
+### WHEN TO USE IT
+
+Ideal for sensing ambient conditions.
+
+----
+### DHT vs OTHER SENSORS
+
+The [TEMP102](https://github.com/kingston-hackSpace/TEMP102) is a temperature-only sensor that provides fast and precise readings. If you require high-precision and a wider temperature range, then the TEMP102 is a more suitable choice.
+
+
 
 ----
 ### DHT11 or DHT22?
