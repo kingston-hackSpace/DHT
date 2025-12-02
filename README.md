@@ -2,7 +2,11 @@
 
 Both, the DHT22 and DHT11 are sensors that measure ambient temperature (°C / °F) and relative humidity (% RH).
 
+Range: about 0–50 °C. Ideal to measure ambient temperatures. 
+
 More info : [here](https://learn.adafruit.com/dht)
+
+*Note: If you requiere high precision temperature readings (not humidity), and wider temperature ranges (below 0°C and higher than 50°C), then the [TEMP102 sensor] is more suitable for you. 
 
 ----
 ### WHICH ONE SHOULD YOU CHOOSE? 
