@@ -37,3 +37,29 @@ Please identify your sensor and wire it accordingly. Reference image [here](http
 
 ----
 ### CODE AND INSTRUCTIONS
+
+- First, install the corresponding libraries ("Adafruit_Sensor" and "DHT-sensor-library"). Download [here](https://github.com/kingston-hackSpace/DHT/tree/main/Libraries)
+  
+- Once donwloaded, follow the installation instructions. In this case, we install via [Importing a .zip Library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
+
+- Upload [this code](https://github.com/kingston-hackSpace/DHT/blob/main/DHT11.ino) to your Arduino board.
+
+- Open Arduino's Serial Monitor to see the incoming data
+
+----
+### UNDERSTANDING THE CODE
+
+Based on our DHT11 library, we use specific functions to read temperature and humidity:
+
+**Read Ambient Temperature in °C (Celsius)** --> dht.readTemperature()
+
+**Read Ambient Temperature in °F (Fahrenheit)** --> dht.readTemperature(true)
+
+**Read Relative Humidity(RH) in %** --> dht.readHumidity()
+
+**Read Heat Index  (“Feels Like” Temp °C/°F)** --> dht.computeHeatIndex(t, h, false/true);
+
+
+
+ 
+
