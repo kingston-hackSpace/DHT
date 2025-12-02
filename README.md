@@ -12,7 +12,7 @@ Detailed comparison : [here](https://www.estartrade-ic.com/dht22-vs-dht11-which-
 DHT11 vs DHT22 chart : [here](https://github.com/kingston-hackSpace/DHT/blob/main/20240905173850055.png)
 
 ----
-# TUTORIAL
+# TUTORIAL : SENSING AMBIENT TEMPERATURE AND HUMIDITY
 
 In this tutorial, we will cover the DHT11 only.
 
@@ -25,9 +25,15 @@ In this tutorial, we will cover the DHT11 only.
 ----
 ### WIRING
 
-Depending on the sensor model you have, different wiring will apply. 
+Depending on the sensor model you have, different wiring order will apply. However, the follow the same logic as follows:
 
-Please identify your sensor and wire it accordinly to the [following image](https://github.com/kingston-hackSpace/DHT)
+DHT11 DATA pin -------- Arduino Pin 2
+
+DHT11 VCC+ pin -------- Arduino 5V
+
+DHT11 GND- pin -------- Arduino GND
+
+Please identify your sensor and wire it accordingly. Reference image [here](https://github.com/kingston-hackSpace/DHT)
 
 ----
 ### CODE AND INSTRUCTIONS
