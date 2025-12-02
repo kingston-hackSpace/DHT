@@ -6,7 +6,7 @@ Range: about 0–50 °C. Ideal to measure ambient temperatures.
 
 More info : [here](https://learn.adafruit.com/dht)
 
-*Note: If you require high-precision temperature measurements (without humidity) and a wider temperature range (below 0 °C or above 50 °C), then the [TEMP102 sensor](https://github.com/kingston-hackSpace/TEMP102/blob/main/README.md) is a more suitable choice. 
+*Note: If you require high-precision temperature measurements (without humidity) and a wider temperature range (below 0 °C or above 50 °C), then the [TEMP102 sensor](https://github.com/kingston-hackSpace/TEMP102/blob/main/README.md) is a more suitable choice.*
 
 ----
 ### WHICH ONE SHOULD YOU CHOOSE? 
