@@ -25,7 +25,7 @@ Ideal for sensing ambient conditions.
 
 The [TEMP102](https://github.com/kingston-hackSpace/TEMP102) is a temperature-only sensor that provides fast and precise readings. If you require high-precision and a wider temperature range, then the TEMP102 is a more suitable choice.
 
-
+The [Si7021](https://github.com/kingston-hackSpace/Si7021) is a temperature-and-humidity sensor very similar to the DTH11 and DHT22, however more precise and (generally) more expensive. 
 
 ----
 ### DHT11 or DHT22?
