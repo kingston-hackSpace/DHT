@@ -1,6 +1,6 @@
 # Temperature and Humidity Sensor
 
-Both the DHT22 and DHT11 are sensors that measure ambient temperature (°C / °F) and relative humidity (%RH).
+Both the DHT11 and DHT22 are sensors that measure ambient temperature (°C / °F) and relative humidity (%RH).
 
 Range: about 0–50 °C. Ideal to measure ambient temperatures. 
 
