@@ -61,9 +61,9 @@ Reference image [here](https://github.com/kingston-hackSpace/DHT/blob/main/Wirin
 ----
 ### CODE AND INSTRUCTIONS
 
-- First, install the corresponding libraries ("Adafruit_Sensor" and "DHT-sensor-library"). Download [here](https://github.com/kingston-hackSpace/DHT/tree/main/Libraries)
+- Download the corresponding libraries ("Adafruit_Sensor" and "DHT-sensor-library"). Download [here](https://github.com/kingston-hackSpace/DHT/tree/main/Libraries)
   
-- Once donwloaded, follow the installation instructions. In this case, we install via [Importing a .zip Library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
+- Install the libraries via "Importing a .zip Library". Instructions [here](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
 - Upload [this code](https://github.com/kingston-hackSpace/DHT/blob/main/DHT11.ino) to your Arduino board.
 
