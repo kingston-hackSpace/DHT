@@ -48,15 +48,15 @@ In this tutorial, we will cover the DHT11 only.
 ----
 ### WIRING
 
-Depending on the sensor model you have, different wiring order will apply. However, the follow the same logic as follows:
+DHT 11 | Arduino
+-|-
+DATA | Pin 2
+VCC+ | 5V
+GND- | GND
 
-DHT11 DATA pin -------- Arduino Pin 2
+Please identify your sensor and wire it accordingly. 
 
-DHT11 VCC+ pin -------- Arduino 5V
-
-DHT11 GND- pin -------- Arduino GND
-
-Please identify your sensor and wire it accordingly. Reference image [here](https://github.com/kingston-hackSpace/DHT)
+Reference image [here](https://github.com/kingston-hackSpace/DHT/blob/main/Wiring_options.png)
 
 ----
 ### CODE AND INSTRUCTIONS
